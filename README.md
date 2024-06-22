@@ -14,6 +14,6 @@ This project serves as a basic introduction to Jetpack Compose, focusing on crea
 - Android Studio Bumblebee or later
 - Kotlin 1.5.31 or later
 - Android SDK 21 or later
-![image](https://github.com/vaibhavkvh/Android-Compose-Shop-App-Poc-/assets/71691783/844e1112-0d93-43a6-b2ca-808e0fc29b0e)
-![image](https://github.com/vaibhavkvh/Android-Compose-Shop-App-Poc-/assets/71691783/385fdba3-ed92-433b-bdea-84bcc306c1ca)
 
+<img src="https://github.com/vaibhavkvh/Android-Compose-Shop-App-Poc-/assets/71691783/844e1112-0d93-43a6-b2ca-808e0fc29b0e" alt="Splash Screen" width="300" height="600">
+<img src="https://github.com/vaibhavkvh/Android-Compose-Shop-App-Poc-/assets/71691783/385fdba3-ed92-433b-bdea-84bcc306c1ca" alt="Splash Screen" width="300" height="600">
